@@ -1,0 +1,7 @@
+User-agent: *
+Host: https://mcss-36.ru
+Sitemap: https://mcss-36.ru/sitemap.xml
+Disallow: /js
+Disallow: /css
+Disallow: /fonts
+Disallow: /images
